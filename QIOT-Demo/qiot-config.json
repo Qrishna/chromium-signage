@@ -1,0 +1,14 @@
+{
+  "label": "SampleLabel",
+  "identity": [
+    {
+      "type": "hostname",
+      "value": "default-host"
+    }
+  ],
+  "host_url" : "https://api.qiot.io",
+  "account_id" :"getyourownaccountid",
+  "account_secret": "getyourownaccountsecret",
+  "account_token": "getyourownaccounttoken",
+  "api_token": "getyourownapitoken"
+}
